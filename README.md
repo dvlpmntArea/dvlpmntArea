@@ -9,11 +9,11 @@ Wish to begin my career as a good Flutter Developer by working on challenging pr
 [<img align="left" alt="linkedin" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/cnnct/LinkedIn.png" />](https://www.linkedin.com/in/emominbd)[<img align="left" alt="YouTube" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/cnnct/YouTube.png" />](https://www.youtube.com/@FlutterArea)[<img align="left" alt="facebook" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/cnnct/Facebook.png" />](https://www.facebook.com/FlutterArea)
 
 
-## Support Tools: </p>
+## Support Tools:
 [<img align="left" alt="stackoverflow" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/spprttls/StackOverflow.png" />]()[<img align="left" alt="github" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/spprttls/GitHub.png" />]()[<img align="left" alt="morioh" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/spprttls/moriohGirin.png" />]()[<img align="left" alt="medium" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/spprttls/Medium.png" />]()[<img align="left" alt="firebase" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/spprttls/firebase.png" />]()
 
 
-<p align="left">## Languages and Tools:</p>
+## Languages and Tools:
 [<code><img height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/ltls/Flutter.png"></code>]()[<code><img height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/ltls/Dart.png"></code>]()[<code><img height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/ltls/DotNet.png"></code>]()[<code><img height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/ltls/CSharp.png"></code>]()[<code><img height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/ltls/AndroidStudio.png"></code>]()[<code><img height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/ltls/VScode.png"></code>]()
 
 
