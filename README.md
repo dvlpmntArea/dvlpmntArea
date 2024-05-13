@@ -19,7 +19,7 @@ Wish to begin my career as a good Flutter Developer by working on challenging pr
 [<img align="left" alt="stackoverflow" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/spprttls/StackOverflow.png" />]()
 [<img align="left" alt="github" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/spprttls/GitHub.png" />]()
 [<img align="left" alt="morioh" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/spprttls/moriohGirin.png" />]()
-[<img align="left" alt="medium" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/spprttls/Medium.png" />]()
+[<img align="left" alt="medium" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/spprttls/medium.png" />]()
 [<img align="left" alt="firebase" height="33" width="33" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/spprttls/firebase.png" />]()
 
 
