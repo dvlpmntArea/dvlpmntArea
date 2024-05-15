@@ -1,7 +1,7 @@
 ![<img height="350" width="900" src="" />]()
 
 # DVLPMNT
-<img align="right" alt="coding" height="80" width="180" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/gif/Coding.gif" />
+<img align="right" alt="coding" height="100" width="160" src="https://github.com/dvlpmntArea/readMEdcmnt/blob/main/assets/gif/Coding.gif" />
 Wish to begin my career as a good Flutter Developer by working on challenging projects. <br /> Further want to deal with each and every aspect and work related to Flutter Developer.<br /> At the end of the day I want to be a satisfied Flutter Developer.
 
 ## Connect with me:
